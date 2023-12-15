@@ -1,3 +1,6 @@
+
+<img src="https://twitter.com/iamjermainew/status/684520816629936128">
+
 <strong>Principais comandos de Configuracao do Git </strong>
 
 ◯ git config --global user.name "[nome]"
