@@ -1,5 +1,5 @@
 
-<img src="![Alt text](giphy-2.gif)">
+<a href="https://media4.giphy.com/media/3o6UB5RrlQuMfZp82Y/giphy.gif?cid=ecf05e47oqlx26qglogpoqexr80ltlh3xjfe068bby9qh77d&ep=v1_gifs_search&rid=giphy.gif&ct=g"></a>
 
 <strong>Principais comandos de Configuracao do Git </strong>
 
