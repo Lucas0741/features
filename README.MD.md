@@ -6,7 +6,7 @@
 
 ◯ git config --global user.email "[endereco-de-email]"
 
-    Configura o nome de exibicao atrelado aos commits.
+    Configura o email de exibicao atrelado aos commits.
 
 ---------------------------------------------------------
 
