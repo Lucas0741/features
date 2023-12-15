@@ -1,6 +1,3 @@
-
-<a href="![Alt text](giphy.gif)">jt</a>
-
 <strong>Principais comandos de Configuracao do Git </strong>
 
 ◯ git config --global user.name "[nome]"
